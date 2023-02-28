@@ -12,6 +12,21 @@ Build a Bot to do basic mathematical operations
     
 ## Concepts Used
 1. HTML & CSS - To design the chatBot
-2. JavaScript 
+2. JavaScript - For calculation (Using sessionstorage)
 
 ## Output Screenshots
+### Homepage
+![1](https://user-images.githubusercontent.com/81914291/221816675-f5a9650e-157e-4417-ad99-49536d8b828c.JPG)
+![2](https://user-images.githubusercontent.com/81914291/221816686-b1c25899-b8c8-4644-9964-38cf16d453c3.JPG)
+
+### Addition
+
+### Another operation - Subtraction
+
+### Another operation - Multiplication
+
+### Another operation - Division
+
+### Another operation - Modulus(Finding Reminder)
+
+### Another operation - Power
