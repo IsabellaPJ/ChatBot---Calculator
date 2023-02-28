@@ -9,4 +9,9 @@ Build a Bot to do basic mathematical operations
 3. Based on these input show the output for the users
 4. After the flow ends - If a user says ”more operations” , take the new inputs and proceed<br>
     • For example ( let us say user asked for sum of 4 and 5 )
+    
+## Concepts Used
+1. HTML & CSS - To design the chatBot
+2. JavaScript 
 
+## Output Screenshots
