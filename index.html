@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>ChatBot</title>
+        <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+	    <link rel="stylesheet" href="style.css">
+        <link rel = "icon" href = "logo.jpg" type = "image/x-icon">
+    </head>
+    <body>
+        <h1>ChatBot - Calculator</h1>
+        <div class="chatbox-wrapper">
+            <div class="chatbox-toggle">
+                <i class="bx bx-message-dots"></i>
+            </div>
+            <div class="chatbox-message-wrapper">
+                <div class="chatbox-message-header">
+                    <div class="chatbox-message-profile">
+                        <img src="bot.png" class="chatbox-message-image">
+                        <div>
+                            <h4 class="chatbox-message-name">Bot</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="chatbox-message-content">
+                    <h4 class="chatbox-message-no-message">You don't have message yet!</h4>
+                </div>
+                <div class="chatbox-message-bottom">
+                    <form action="#" class="chatbox-message-form">
+                        <textarea rows="1" placeholder="Type message..." class="chatbox-message-input"></textarea>
+                        <button type="submit" class="chatbox-message-submit"><i class='bx bx-send' ></i></button>
+                    </form>
+                </div>
+            </div>    
+        </div>
+        <script src="script.js"></script>
+        <script src="response.js"></script>
+    </body>    
+</html>
